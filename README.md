@@ -6,4 +6,5 @@ C#, ASP.NET Core MVC (.net 6)
 HTML, CSS, JavaScript, and Bootstrap
 
 I learned some concepts by following the freeCodeCamp course:
+
 Dependency Injection (DI), Model Controller View (MVC) architecture, Routine, Tag Helpers in (.net 6), and Data Annotation.
